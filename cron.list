@@ -1,0 +1,3 @@
+DISPLAY=:0.0 
+XAUTHORITY=~/.Xauthority
+21 16 * * * cd /home/atul/football/ && /usr/local/bin/scrapy crawl table
